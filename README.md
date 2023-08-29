@@ -5,7 +5,7 @@ These are the used files, the code, and some of the more detailed results for my
 More information, or questions, are available on request. You can e-mail me on jules230699@hotmail.com. 
 
 Created by:
-Jules van der Burgt
+Jules van der Burgt at
 Radboud University Nijmegen
 
 under daily supervision of
